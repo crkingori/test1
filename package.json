@@ -1,0 +1,17 @@
+{
+  "name": "trailbuddy",
+  "version": "1.0.0",
+  "description": "TrailBuddy outdoor activity planner",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://localhost:26831/crkingori/test1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
